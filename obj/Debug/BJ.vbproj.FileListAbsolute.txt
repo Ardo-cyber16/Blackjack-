@@ -1,0 +1,13 @@
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\bin\Debug\BJ.exe.config
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\bin\Debug\BJ.exe
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\bin\Debug\BJ.pdb
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\bin\Debug\BJ.xml
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.vbproj.AssemblyReference.cache
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.Resources.resources
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.vbproj.GenerateResource.cache
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.vbproj.CoreCompileInputs.cache
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.exe
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.xml
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.pdb
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.exe.config
+C:\Users\m.ardenghi\Desktop\Documenti_personali\App\BJ\obj\Debug\BJ.frmBlackJack.resources
